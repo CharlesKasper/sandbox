@@ -1,11 +1,38 @@
 /*Removes default on the body-tag*/
 body{
     margin:0;
-    background-color: #915273;
+    height:500px;
+    width:500px;
+    background-color:#915273;
+
 }
 article{
   background-color: #ff9157;
+  height: 395px;
+  width: inherit;
+  border:5px;
+  border-color: #274904;
+  padding:20%
 }
 section{
-
+    height:95px;
+    width:inherit;
+    border:5px;
+    border-color: #138742;
+}
+h1{
+    font-size: 32pt;
+    font-family: Comic Sans MS
+}
+h2{
+    font-size:20pt;
+    font-family: Minion Pro;
+}
+h3{
+    font-size:12;
+    font-family:Rage;
+}
+b{
+    font-size:12;
+    font-family:Blackoak Std Black;
 }
